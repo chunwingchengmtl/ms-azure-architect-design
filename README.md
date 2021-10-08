@@ -14,4 +14,5 @@
 
 
 ## Other resources
-- [Docker cheat sheet](https://intellipaat.com/mediaFiles/2019/03/docker-cheat-sheet.jpg)
+- [Intellipaat - Docker cheat sheet](https://intellipaat.com/mediaFiles/2019/03/docker-cheat-sheet.jpg)
+- [Dockerlabs cheat sheet](https://dockerlabs.collabnix.com/docker/cheatsheet/)
