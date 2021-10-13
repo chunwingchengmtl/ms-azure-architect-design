@@ -4,7 +4,7 @@
 ## LEARNING PATH
 
 - Architect modern applications in Azure
-  - [x] Build a containerized web application with Docker
+  - [x] [Build a containerized web application with Docker](https://github.com/chunwingchengmtl/ms-azure-architect-design/blob/main/Architect%20modern%20applications%20in%20Azure/Build%20a%20containerized%20web%20app%20with%20docker/README.md)
   - [ ] Run Docker containers with Azure Container Instances
   - [ ] Build and store container images with Azure Container Registry
   - [ ] Host a web application with Azure App Service
